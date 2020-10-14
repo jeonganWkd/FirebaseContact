@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "185990494850",
+    "firebase_url": "https://fir-contact-e5a4c.firebaseio.com",
+    "project_id": "fir-contact-e5a4c",
+    "storage_bucket": "fir-contact-e5a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185990494850:android:8a421f9157794182c0d29b",
+        "android_client_info": {
+          "package_name": "com.test.firebasecontact"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185990494850-q9p5m1p7pn57upg97obdrqp6gr6ud2q4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.test.firebasecontact",
+            "certificate_hash": "9ce42031990fe980fb6d0631ce7e4e8faccc583a"
+          }
+        },
+        {
+          "client_id": "185990494850-n9avlic6po3uo5f8mtt72ceod4vn3frn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFpZt8cQyGQ3xz8FRaD4lm9s2atrqCQqk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185990494850-n9avlic6po3uo5f8mtt72ceod4vn3frn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
